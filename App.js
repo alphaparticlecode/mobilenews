@@ -96,6 +96,7 @@ const styles = StyleSheet.create({
     flex: 1,
     height: 200,
     width: 350,
+    marginTop: 60
   },
   header: {
     alignSelf: 'stretch',
@@ -112,5 +113,8 @@ const styles = StyleSheet.create({
   },
   testStyles: {
     color: 'white',
+  },
+  p: {
+    marginBottom: -60
   }
 });
