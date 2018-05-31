@@ -86,8 +86,10 @@ const styles = StyleSheet.create({
     fontSize: 18,
   },
   storyContainer: {
-    padding: 20,
+    flex: 1,
     marginTop: 20,
+    paddingLeft: 12,
+    paddingRight: 10,
     alignItems: 'stretch',
   },
   storyThumbnail: {
