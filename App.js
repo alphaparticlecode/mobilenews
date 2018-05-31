@@ -91,6 +91,7 @@ const styles = StyleSheet.create({
     paddingLeft: 12,
     paddingRight: 10,
     alignItems: 'stretch',
+    marginBottom: 60
   },
   storyThumbnail: {
     flex: 1,
