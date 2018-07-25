@@ -77,6 +77,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#eee',
     paddingTop: 50,
+    paddingBottom: 50
   },
   headline: {
     fontSize: 36,
@@ -88,6 +89,7 @@ const styles = StyleSheet.create({
   storyContainer: {
     flex: 1,
     marginTop: 20,
+    marginBottom: -60,
     paddingLeft: 12,
     paddingRight: 10,
     alignItems: 'stretch',
@@ -97,7 +99,7 @@ const styles = StyleSheet.create({
     flex: 1,
     height: 200,
     width: 350,
-    marginTop: 60
+    marginTop: 10
   },
   header: {
     alignSelf: 'stretch',
